@@ -34,22 +34,31 @@ jupyter notebook Prodigy-ML-03.ipynb
 Notebook Contents
 The notebook includes the following sections:
 
-Importing Required Libraries: Importing essential libraries like NumPy, pandas, scikit-learn, OpenCV, etc.
-Extracting the Datasets: Extracting the dataset from zip files.
+### Importing Required Libraries:
+Importing essential libraries like NumPy, pandas, scikit-learn, OpenCV, etc.
+### Extracting the Datasets: 
+Extracting the dataset from zip files.
 
-Loading and Preprocessing the Data: Loading and normalizing images, converting them to NumPy arrays.
+### Loading and Preprocessing the Data:
+Loading and normalizing images, converting them to NumPy arrays.
 
-Data Visualization: Visualizing sample images from the dataset.
+### Data Visualization:
+Visualizing sample images from the dataset.
 
-Data Preparation: Flattening images, standardizing features, and applying t-SNE for visualization.
+### Data Preparation:
+Flattening images, standardizing features, and applying t-SNE for visualization.
 
-Model Training: Splitting the data into training and test sets, training the SVM model.
+### Model Training: 
+Splitting the data into training and test sets, training the SVM model.
 
-Model Evaluation: Evaluating the model using accuracy, classification reports, and confusion matrices.
+### Model Evaluation: 
+Evaluating the model using accuracy, classification reports, and confusion matrices.
 
-Saving and Loading Models: Saving the trained SVM model and the scaler.
+### Saving and Loading Models: 
+Saving the trained SVM model and the scaler.
 
-Making Predictions: Making predictions on the test set and visualizing some of the test results.
+### Making Predictions:
+Making predictions on the test set and visualizing some of the test results.
 
 # Results
 The final model's performance is evaluated using accuracy, precision, recall, and F1-score. Confusion matrices and classification reports are also provided for a comprehensive analysis of the model's performance.
