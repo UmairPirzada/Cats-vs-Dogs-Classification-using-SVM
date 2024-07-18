@@ -28,7 +28,7 @@ To run the notebook, you need to have Python and Jupyter Notebook installed.
 
 # Usage
 ### Clone this repository:
-git clone https://github.com/your_username/cats_vs_dogs_svm.git
+git clone https://github.com/UmairPirzada/PRODIGY_ML_03.git
 # Open the Jupyter Notebook:
 jupyter notebook Prodigy-ML-03.ipynb
 Notebook Contents
